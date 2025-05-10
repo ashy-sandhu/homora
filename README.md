@@ -93,4 +93,4 @@ This project utilizes several open-source packages and resources. Special thanks
 
 ## License
 
-Homora is under MIT License
+Homora is under MIT License.
