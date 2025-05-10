@@ -53,7 +53,7 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
     // Define light theme colors
     const Color backgroundColor = Colors.white;
     const Color foregroundColor = Colors.black; // For text and icon tint
-    final String appName = "Homeora"; // Or "Smart Home" as user suggested
+    final String appName = "Homora"; // Or "Smart Home" as user suggested
 
     return Scaffold(
       backgroundColor: backgroundColor,
