@@ -45,7 +45,7 @@ To get Homora up and running on your local development environment, follow these
 Clone this repository to your local machine (or download the source code).
 
 ```
-git clone https://github.com/yourusername/homora.git
+git clone https://github.com/ashy-sandhu/homora.git
 ```
 
 **Step 2:**
